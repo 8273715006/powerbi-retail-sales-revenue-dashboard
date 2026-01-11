@@ -1,0 +1,532 @@
+﻿Country,City,State,Region
+United States,Henderson,Kentucky,South
+United States,Los Angeles,California,West
+United States,Fort Lauderdale,Florida,South
+United States,Concord,North Carolina,South
+United States,Seattle,Washington,West
+United States,Fort Worth,Texas,Central
+United States,Madison,Wisconsin,Central
+United States,West Jordan,Utah,West
+United States,San Francisco,California,West
+United States,Fremont,Nebraska,Central
+United States,Philadelphia,Pennsylvania,East
+United States,Orem,Utah,West
+United States,Houston,Texas,Central
+United States,Richardson,Texas,Central
+United States,Naperville,Illinois,Central
+United States,Melbourne,Florida,South
+United States,Eagan,Minnesota,Central
+United States,Westland,Michigan,Central
+United States,Dover,Delaware,East
+United States,New Albany,Indiana,Central
+United States,New York City,New York,East
+United States,Troy,New York,East
+United States,Chicago,Illinois,Central
+United States,Gilbert,Arizona,West
+United States,Springfield,Virginia,South
+United States,Jackson,Michigan,Central
+United States,Memphis,Tennessee,South
+United States,Decatur,Alabama,South
+United States,Durham,North Carolina,South
+United States,Columbia,South Carolina,South
+United States,Rochester,Minnesota,Central
+United States,Minneapolis,Minnesota,Central
+United States,Portland,Oregon,West
+United States,Saint Paul,Minnesota,Central
+United States,Aurora,Colorado,West
+United States,Charlotte,North Carolina,South
+United States,Orland Park,Illinois,Central
+United States,Urbandale,Iowa,Central
+United States,Columbus,Ohio,East
+United States,Bristol,Tennessee,South
+United States,Wilmington,Delaware,East
+United States,Bloomington,Illinois,Central
+United States,Phoenix,Arizona,West
+United States,Roseville,California,West
+United States,Independence,Missouri,Central
+United States,Pasadena,California,West
+United States,Newark,Ohio,East
+United States,Franklin,Wisconsin,Central
+United States,Scottsdale,Arizona,West
+United States,San Jose,California,West
+United States,Edmond,Oklahoma,Central
+United States,Carlsbad,New Mexico,West
+United States,San Antonio,Texas,Central
+United States,Monroe,Louisiana,South
+United States,Fairfield,Connecticut,East
+United States,Grand Prairie,Texas,Central
+United States,Redlands,California,West
+United States,Hamilton,Ohio,East
+United States,Westfield,New Jersey,East
+United States,Akron,Ohio,East
+United States,Denver,Colorado,West
+United States,Dallas,Texas,Central
+United States,Whittier,California,West
+United States,Saginaw,Michigan,Central
+United States,Medina,Ohio,East
+United States,Dublin,Ohio,East
+United States,Detroit,Michigan,Central
+United States,Tampa,Florida,South
+United States,Santa Clara,California,West
+United States,Lakeville,Minnesota,Central
+United States,San Diego,California,West
+United States,Brentwood,California,West
+United States,Chapel Hill,North Carolina,South
+United States,Morristown,New Jersey,East
+United States,Cincinnati,Ohio,East
+United States,Inglewood,California,West
+United States,Tamarac,Florida,South
+United States,Colorado Springs,Colorado,West
+United States,Belleville,New Jersey,East
+United States,Taylor,Michigan,Central
+United States,Lakewood,New Jersey,East
+United States,Arlington,Virginia,South
+United States,Arvada,Colorado,West
+United States,Hackensack,New Jersey,East
+United States,Saint Petersburg,Florida,South
+United States,Long Beach,California,West
+United States,Hesperia,California,West
+United States,Murfreesboro,Tennessee,South
+United States,Layton,Utah,West
+United States,Austin,Texas,Central
+United States,Lowell,Massachusetts,East
+United States,Manchester,Connecticut,East
+United States,Harlingen,Texas,Central
+United States,Tucson,Arizona,West
+United States,Quincy,Illinois,Central
+United States,Pembroke Pines,Florida,South
+United States,Des Moines,Washington,West
+United States,Peoria,Illinois,Central
+United States,Las Vegas,Nevada,West
+United States,Warwick,Rhode Island,East
+United States,Miami,Florida,South
+United States,Huntington Beach,California,West
+United States,Richmond,Kentucky,South
+United States,Louisville,Colorado,West
+United States,Lawrence,Massachusetts,East
+United States,Canton,Michigan,Central
+United States,New Rochelle,New York,East
+United States,Gastonia,North Carolina,South
+United States,Jacksonville,Florida,South
+United States,Auburn,New York,East
+United States,Norman,Oklahoma,Central
+United States,Park Ridge,Illinois,Central
+United States,Amarillo,Texas,Central
+United States,Lindenhurst,New York,East
+United States,Huntsville,Texas,Central
+United States,Fayetteville,Arkansas,South
+United States,Costa Mesa,California,West
+United States,Parker,Colorado,West
+United States,Atlanta,Georgia,South
+United States,Gladstone,Missouri,Central
+United States,Great Falls,Montana,West
+United States,Lakeland,Florida,South
+United States,Montgomery,Alabama,South
+United States,Mesa,Arizona,West
+United States,Green Bay,Wisconsin,Central
+United States,Anaheim,California,West
+United States,Marysville,Washington,West
+United States,Salem,Oregon,West
+United States,Laredo,Texas,Central
+United States,Grove City,Ohio,East
+United States,Dearborn,Michigan,Central
+United States,Warner Robins,Georgia,South
+United States,Vallejo,California,West
+United States,Mission Viejo,California,West
+United States,Rochester Hills,Michigan,Central
+United States,Plainfield,New Jersey,East
+United States,Sierra Vista,Arizona,West
+United States,Vancouver,Washington,West
+United States,Cleveland,Ohio,East
+United States,Tyler,Texas,Central
+United States,Burlington,North Carolina,South
+United States,Waynesboro,Virginia,South
+United States,Chester,Pennsylvania,East
+United States,Cary,North Carolina,South
+United States,Palm Coast,Florida,South
+United States,Mount Vernon,New York,East
+United States,Hialeah,Florida,South
+United States,Oceanside,New York,East
+United States,Evanston,Illinois,Central
+United States,Trenton,Michigan,Central
+United States,Cottage Grove,Minnesota,Central
+United States,Bossier City,Louisiana,South
+United States,Lancaster,California,West
+United States,Asheville,North Carolina,South
+United States,Lake Elsinore,California,West
+United States,Omaha,Nebraska,Central
+United States,Edmonds,Washington,West
+United States,Santa Ana,California,West
+United States,Milwaukee,Wisconsin,Central
+United States,Florence,Kentucky,South
+United States,Lorain,Ohio,East
+United States,Linden,New Jersey,East
+United States,Salinas,California,West
+United States,New Brunswick,New Jersey,East
+United States,Garland,Texas,Central
+United States,Norwich,Connecticut,East
+United States,Alexandria,Virginia,South
+United States,Toledo,Ohio,East
+United States,Farmington,New Mexico,West
+United States,Riverside,California,West
+United States,Torrance,California,West
+United States,Round Rock,Texas,Central
+United States,Boca Raton,Florida,South
+United States,Virginia Beach,Virginia,South
+United States,Murrieta,California,West
+United States,Olympia,Washington,West
+United States,Washington,District of Columbia,East
+United States,Jefferson City,Missouri,Central
+United States,Saint Peters,Missouri,Central
+United States,Rockford,Illinois,Central
+United States,Brownsville,Texas,Central
+United States,Yonkers,New York,East
+United States,Oakland,California,West
+United States,Clinton,Maryland,East
+United States,Encinitas,California,West
+United States,Roswell,Georgia,South
+United States,Jonesboro,Arkansas,South
+United States,Antioch,California,West
+United States,Homestead,Florida,South
+United States,La Porte,Indiana,Central
+United States,Lansing,Michigan,Central
+United States,Cuyahoga Falls,Ohio,East
+United States,Reno,Nevada,West
+United States,Harrisonburg,Virginia,South
+United States,Escondido,California,West
+United States,Royal Oak,Michigan,Central
+United States,Rockville,Maryland,East
+United States,Coral Springs,Florida,South
+United States,Buffalo,New York,East
+United States,Boynton Beach,Florida,South
+United States,Gulfport,Mississippi,South
+United States,Fresno,California,West
+United States,Greenville,North Carolina,South
+United States,Macon,Georgia,South
+United States,Cedar Rapids,Iowa,Central
+United States,Providence,Rhode Island,East
+United States,Pueblo,Colorado,West
+United States,Deltona,Florida,South
+United States,Murray,Kentucky,South
+United States,Middletown,Connecticut,East
+United States,Freeport,New York,East
+United States,Pico Rivera,California,West
+United States,Provo,Utah,West
+United States,Pleasant Grove,Utah,West
+United States,Smyrna,Georgia,South
+United States,Parma,Ohio,East
+United States,Mobile,Alabama,South
+United States,New Bedford,Massachusetts,East
+United States,Irving,Texas,Central
+United States,Vineland,New Jersey,East
+United States,Glendale,Arizona,West
+United States,Niagara Falls,New York,East
+United States,Thomasville,North Carolina,South
+United States,Westminster,California,West
+United States,Coppell,Texas,Central
+United States,Pomona,California,West
+United States,North Las Vegas,Nevada,West
+United States,Allentown,Pennsylvania,East
+United States,Tempe,Arizona,West
+United States,Laguna Niguel,California,West
+United States,Bridgeton,New Jersey,East
+United States,Everett,Massachusetts,East
+United States,Watertown,New York,East
+United States,Appleton,Wisconsin,Central
+United States,Bellevue,Washington,West
+United States,Allen,Texas,Central
+United States,El Paso,Texas,Central
+United States,Grapevine,Texas,Central
+United States,Carrollton,Texas,Central
+United States,Kent,Washington,West
+United States,Lafayette,Louisiana,South
+United States,Tigard,Oregon,West
+United States,Skokie,Illinois,Central
+United States,Plano,Texas,Central
+United States,Suffolk,Virginia,South
+United States,Indianapolis,Indiana,Central
+United States,Bayonne,New Jersey,East
+United States,Greensboro,North Carolina,South
+United States,Baltimore,Maryland,East
+United States,Kenosha,Wisconsin,Central
+United States,Olathe,Kansas,Central
+United States,Tulsa,Oklahoma,Central
+United States,Redmond,Oregon,West
+United States,Raleigh,North Carolina,South
+United States,Muskogee,Oklahoma,Central
+United States,Meriden,Connecticut,East
+United States,Bowling Green,Kentucky,South
+United States,South Bend,Indiana,Central
+United States,Spokane,Washington,West
+United States,Keller,Texas,Central
+United States,Port Orange,Florida,South
+United States,Medford,Oregon,West
+United States,Charlottesville,Virginia,South
+United States,Missoula,Montana,West
+United States,Apopka,Florida,South
+United States,Reading,Pennsylvania,East
+United States,Broomfield,Colorado,West
+United States,Paterson,New Jersey,East
+United States,Oklahoma City,Oklahoma,Central
+United States,Chesapeake,Virginia,South
+United States,Lubbock,Texas,Central
+United States,Johnson City,Tennessee,South
+United States,San Bernardino,California,West
+United States,Leominster,Massachusetts,East
+United States,Bozeman,Montana,West
+United States,Perth Amboy,New Jersey,East
+United States,Ontario,California,West
+United States,Rancho Cucamonga,California,West
+United States,Moorhead,Minnesota,Central
+United States,Mesquite,Texas,Central
+United States,Stockton,California,West
+United States,Ormond Beach,Florida,South
+United States,Sunnyvale,California,West
+United States,York,Pennsylvania,East
+United States,College Station,Texas,Central
+United States,Saint Louis,Missouri,Central
+United States,Manteca,California,West
+United States,San Angelo,Texas,Central
+United States,Salt Lake City,Utah,West
+United States,Knoxville,Tennessee,South
+United States,Little Rock,Arkansas,South
+United States,Lincoln Park,Michigan,Central
+United States,Marion,Ohio,East
+United States,Littleton,Colorado,West
+United States,Bangor,Maine,East
+United States,Southaven,Mississippi,South
+United States,New Castle,Indiana,Central
+United States,Midland,Michigan,Central
+United States,Sioux Falls,South Dakota,Central
+United States,Fort Collins,Colorado,West
+United States,Clarksville,Tennessee,South
+United States,Sacramento,California,West
+United States,Thousand Oaks,California,West
+United States,Malden,Massachusetts,East
+United States,Holyoke,Massachusetts,East
+United States,Albuquerque,New Mexico,West
+United States,Sparks,Nevada,West
+United States,Coachella,California,West
+United States,Elmhurst,Illinois,Central
+United States,Passaic,New Jersey,East
+United States,North Charleston,South Carolina,South
+United States,Newport News,Virginia,South
+United States,Jamestown,New York,East
+United States,Mishawaka,Indiana,Central
+United States,La Quinta,California,West
+United States,Tallahassee,Florida,South
+United States,Nashville,Tennessee,South
+United States,Bellingham,Washington,West
+United States,Woodstock,Illinois,Central
+United States,Haltom City,Texas,Central
+United States,Wheeling,Illinois,Central
+United States,Summerville,South Carolina,South
+United States,Hot Springs,Arkansas,South
+United States,Englewood,Colorado,West
+United States,Las Cruces,New Mexico,West
+United States,Hoover,Alabama,South
+United States,Frisco,Texas,Central
+United States,Vacaville,California,West
+United States,Waukesha,Wisconsin,Central
+United States,Bakersfield,California,West
+United States,Pompano Beach,Florida,South
+United States,Corpus Christi,Texas,Central
+United States,Redondo Beach,California,West
+United States,Orlando,Florida,South
+United States,Orange,New Jersey,East
+United States,Lake Charles,Louisiana,South
+United States,Highland Park,Illinois,Central
+United States,Hempstead,New York,East
+United States,Noblesville,Indiana,Central
+United States,Apple Valley,Minnesota,Central
+United States,Mount Pleasant,South Carolina,South
+United States,Sterling Heights,Michigan,Central
+United States,Eau Claire,Wisconsin,Central
+United States,Pharr,Texas,Central
+United States,Billings,Montana,West
+United States,Gresham,Oregon,West
+United States,Chattanooga,Tennessee,South
+United States,Meridian,Idaho,West
+United States,Bolingbrook,Illinois,Central
+United States,Maple Grove,Minnesota,Central
+United States,Woodland,California,West
+United States,Missouri City,Texas,Central
+United States,Pearland,Texas,Central
+United States,San Mateo,California,West
+United States,Grand Rapids,Michigan,Central
+United States,Visalia,California,West
+United States,Overland Park,Kansas,Central
+United States,Temecula,California,West
+United States,Yucaipa,California,West
+United States,Revere,Massachusetts,East
+United States,Conroe,Texas,Central
+United States,Tinley Park,Illinois,Central
+United States,Dubuque,Iowa,Central
+United States,Dearborn Heights,Michigan,Central
+United States,Santa Fe,New Mexico,West
+United States,Hickory,North Carolina,South
+United States,Carol Stream,Illinois,Central
+United States,Saint Cloud,Minnesota,Central
+United States,North Miami,Florida,South
+United States,Plantation,Florida,South
+United States,Port Saint Lucie,Florida,South
+United States,Rock Hill,South Carolina,South
+United States,Odessa,Texas,Central
+United States,West Allis,Wisconsin,Central
+United States,Chula Vista,California,West
+United States,Manhattan,Kansas,Central
+United States,Altoona,Pennsylvania,East
+United States,Thornton,Colorado,West
+United States,Champaign,Illinois,Central
+United States,Texarkana,Arkansas,South
+United States,Edinburg,Texas,Central
+United States,Baytown,Texas,Central
+United States,Greenwood,Indiana,Central
+United States,Woonsocket,Rhode Island,East
+United States,Superior,Wisconsin,Central
+United States,Bedford,Texas,Central
+United States,Covington,Washington,West
+United States,Broken Arrow,Oklahoma,Central
+United States,Miramar,Florida,South
+United States,Hollywood,Florida,South
+United States,Deer Park,Texas,Central
+United States,Wichita,Kansas,Central
+United States,Mcallen,Texas,Central
+United States,Iowa City,Iowa,Central
+United States,Boise,Idaho,West
+United States,Cranston,Rhode Island,East
+United States,Port Arthur,Texas,Central
+United States,Citrus Heights,California,West
+United States,The Colony,Texas,Central
+United States,Daytona Beach,Florida,South
+United States,Bullhead City,Arizona,West
+United States,Portage,Indiana,Central
+United States,Fargo,North Dakota,Central
+United States,Elkhart,Indiana,Central
+United States,San Gabriel,California,West
+United States,Margate,Florida,South
+United States,Sandy Springs,Georgia,South
+United States,Mentor,Ohio,East
+United States,Lawton,Oklahoma,Central
+United States,Hampton,Virginia,South
+United States,Rome,New York,East
+United States,La Crosse,Wisconsin,Central
+United States,Lewiston,Idaho,West
+United States,Hattiesburg,Mississippi,South
+United States,Danville,California,West
+United States,Logan,Utah,West
+United States,Waterbury,Connecticut,East
+United States,Athens,Georgia,South
+United States,Avondale,Arizona,West
+United States,Marietta,Georgia,South
+United States,Yuma,Arizona,West
+United States,Wausau,Wisconsin,Central
+United States,Pasco,Washington,West
+United States,Oak Park,Illinois,Central
+United States,Pensacola,Florida,South
+United States,League City,Texas,Central
+United States,Gaithersburg,Maryland,East
+United States,Lehi,Utah,West
+United States,Tuscaloosa,Alabama,South
+United States,Moreno Valley,California,West
+United States,Georgetown,Kentucky,South
+United States,Loveland,Colorado,West
+United States,Chandler,Arizona,West
+United States,Helena,Montana,West
+United States,Kirkwood,Missouri,Central
+United States,Waco,Texas,Central
+United States,Frankfort,Illinois,Central
+United States,Bethlehem,Pennsylvania,East
+United States,Grand Island,Nebraska,Central
+United States,Woodbury,Minnesota,Central
+United States,Rogers,Arkansas,South
+United States,Clovis,New Mexico,West
+United States,Jupiter,Florida,South
+United States,Santa Barbara,California,West
+United States,Cedar Hill,Texas,Central
+United States,Norfolk,Nebraska,Central
+United States,Draper,Utah,West
+United States,Ann Arbor,Michigan,Central
+United States,La Mesa,California,West
+United States,Pocatello,Idaho,West
+United States,Holland,Michigan,Central
+United States,Milford,Connecticut,East
+United States,Buffalo Grove,Illinois,Central
+United States,Lake Forest,California,West
+United States,Redding,California,West
+United States,Chico,California,West
+United States,Utica,New York,East
+United States,Conway,Arkansas,South
+United States,Cheyenne,Wyoming,West
+United States,Owensboro,Kentucky,South
+United States,Caldwell,Idaho,West
+United States,Kenner,Louisiana,South
+United States,Nashua,New Hampshire,East
+United States,Bartlett,Tennessee,South
+United States,Redwood City,California,West
+United States,Lebanon,Tennessee,South
+United States,Santa Maria,California,West
+United States,Des Plaines,Illinois,Central
+United States,Longview,Washington,West
+United States,Hendersonville,Tennessee,South
+United States,Waterloo,Iowa,Central
+United States,Cambridge,Massachusetts,East
+United States,Palatine,Illinois,Central
+United States,Beverly,Massachusetts,East
+United States,Eugene,Oregon,West
+United States,Oxnard,California,West
+United States,Renton,Washington,West
+United States,Glenview,Illinois,Central
+United States,Delray Beach,Florida,South
+United States,Commerce City,Colorado,West
+United States,Texas City,Texas,Central
+United States,Wilson,North Carolina,South
+United States,Rio Rancho,New Mexico,West
+United States,Goldsboro,North Carolina,South
+United States,Montebello,California,West
+United States,El Cajon,California,West
+United States,Beaumont,Texas,Central
+United States,West Palm Beach,Florida,South
+United States,Abilene,Texas,Central
+United States,Normal,Illinois,Central
+United States,Saint Charles,Missouri,Central
+United States,Camarillo,California,West
+United States,Hillsboro,Oregon,West
+United States,Burbank,California,West
+United States,Modesto,California,West
+United States,Garden City,Kansas,Central
+United States,Atlantic City,New Jersey,East
+United States,Longmont,Colorado,West
+United States,Davis,California,West
+United States,Morgan Hill,California,West
+United States,Clifton,New Jersey,East
+United States,Sheboygan,Wisconsin,Central
+United States,East Point,Georgia,South
+United States,Rapid City,South Dakota,Central
+United States,Andover,Massachusetts,East
+United States,Kissimmee,Florida,South
+United States,Shelton,Connecticut,East
+United States,Danbury,Connecticut,East
+United States,Sanford,Florida,South
+United States,San Marcos,Texas,Central
+United States,Greeley,Colorado,West
+United States,Mansfield,Texas,Central
+United States,Elyria,Ohio,East
+United States,Twin Falls,Idaho,West
+United States,Coral Gables,Florida,South
+United States,Romeoville,Illinois,Central
+United States,Marlborough,Massachusetts,East
+United States,Laurel,Maryland,East
+United States,Bryan,Texas,Central
+United States,Pine Bluff,Arkansas,South
+United States,Aberdeen,South Dakota,Central
+United States,Hagerstown,Maryland,East
+United States,East Orange,New Jersey,East
+United States,Arlington Heights,Illinois,Central
+United States,Oswego,Illinois,Central
+United States,Coon Rapids,Minnesota,Central
+United States,San Clemente,California,West
+United States,San Luis Obispo,California,West
+United States,Springdale,Arkansas,South
+United States,Lodi,California,West
+United States,Mason,Ohio,East
